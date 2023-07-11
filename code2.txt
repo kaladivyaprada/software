@@ -1,0 +1,4 @@
+//Cascading style sheet
+body{
+     background-color:red;
+}
